@@ -1,5 +1,5 @@
 # PY-Lung-Segmentation
-Lung segmentation using U-Net network model implemented with Keras
+Lung segmentation using U-Net deep neural network model implemented with Keras
 
 Includes Jupyter Notebook with:
 * Dataset Analysis
